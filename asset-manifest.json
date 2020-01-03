@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lol-champions/static/css/main.87faf9d2.chunk.css",
+    "main.js": "/lol-champions/static/js/main.09349056.chunk.js",
+    "main.js.map": "/lol-champions/static/js/main.09349056.chunk.js.map",
+    "runtime-main.js": "/lol-champions/static/js/runtime-main.fa8b44ba.js",
+    "runtime-main.js.map": "/lol-champions/static/js/runtime-main.fa8b44ba.js.map",
+    "static/js/2.6709c717.chunk.js": "/lol-champions/static/js/2.6709c717.chunk.js",
+    "static/js/2.6709c717.chunk.js.map": "/lol-champions/static/js/2.6709c717.chunk.js.map",
+    "index.html": "/lol-champions/index.html",
+    "precache-manifest.4bc2b5ca66ca714f077f435b4088c513.js": "/lol-champions/precache-manifest.4bc2b5ca66ca714f077f435b4088c513.js",
+    "service-worker.js": "/lol-champions/service-worker.js",
+    "static/css/main.87faf9d2.chunk.css.map": "/lol-champions/static/css/main.87faf9d2.chunk.css.map",
+    "static/js/2.6709c717.chunk.js.LICENSE": "/lol-champions/static/js/2.6709c717.chunk.js.LICENSE",
+    "static/media/logo.svg": "/lol-champions/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa8b44ba.js",
+    "static/js/2.6709c717.chunk.js",
+    "static/css/main.87faf9d2.chunk.css",
+    "static/js/main.09349056.chunk.js"
+  ]
+}
